@@ -2,4 +2,4 @@
 
 My name is Damian Słoński and I'm a creative frontend web developer.
 
-🇵🇱 If you are from Poland, check out my blog: https://www.damianslonski.pl/!
+🇵🇱 If you are from Poland, check out my blog: [damianslonski.pl](https://www.damianslonski.pl)!
